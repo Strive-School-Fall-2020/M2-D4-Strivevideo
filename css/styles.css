@@ -14,9 +14,14 @@ nav .dropdown-toggle:focus {
   color: white;
 }
 
+.nav-link {
+  font-weight: 600;
+}
+
 .navbar-expand-lg .nav-item .nav-link {
   padding-left: 0;
   padding-right: 0;
+  padding-bottom: 0.05rem;
   margin: 8px;
 }
 
